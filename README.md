@@ -1,2 +1,2 @@
 # Winforms-Palindromes
-Find all palindromes in a .txt file
+Find all palindromes in a .csv file
